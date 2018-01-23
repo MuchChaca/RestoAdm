@@ -9,7 +9,7 @@ It all depends if its evolution matters for grades or not.
 
 ## Use
 * The app uses ``postgresql`` and still needs to have it installed and running.
-* The database used is called ``restoadm``, everything is done in the `public`` schema.
+* The database used is called ``restoadm``, everything is done in the ``public`` schema.
 * If you want to have a root account, for now, you need to add it from the database directly. The ``user_type`` to use is ``"a"``.
 
 
